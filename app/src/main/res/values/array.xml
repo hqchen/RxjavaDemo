@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="express_id">
+        <item>"zhongtong"</item>
+        <item>"shunfeng"</item>
+        <item>"yuantong"</item>
+        <item>"shentong"</item>
+    </string-array>
+    <string-array name="express_name">
+        <item>"中通"</item>
+        <item>"顺丰"</item>
+        <item>"圆通"</item>
+        <item>"申通"</item>
+    </string-array>
+</resources>

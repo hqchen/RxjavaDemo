@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\github\107\RxjavaDemo\app\build\intermediates\exploded-aar\com.trello.rxlifecycle2\rxlifecycle-components\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e20f3c5e0e1bdbcf0edad8b16771497b36f68875">
+        <dex dex="E:\github\107\RxjavaDemo\app\build\intermediates\pre-dexed\debug\com.trello.rxlifecycle2-rxlifecycle-components-2.1.0_656e98128c4315f9634fafca1754462e0c7ed08c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MyConfiguration\chq18099\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava2\2.3.0\f436637f9500ab5b8bc32afe556373180894b4a5\adapter-rxjava2-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f436637f9500ab5b8bc32afe556373180894b4a5">
+        <dex dex="E:\github\919\RxjavaDemo\app\build\intermediates\pre-dexed\debug\adapter-rxjava2-2.3.0_26d9dd078423504a576ee99b8dde3dd773daeb46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MyConfiguration\chq18099\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.3.0\bcacde6a8ccedcc56c127403d26b76072fe6214d\retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="E:\github\919\RxjavaDemo\app\build\intermediates\pre-dexed\debug\retrofit-2.3.0_28a999b4f1e8b25d468d04dc41a763adf2168611.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MyConfiguration\chq18099\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="E:\github\919\RxjavaDemo\app\build\intermediates\pre-dexed\debug\okio-1.13.0_d75bb51fe1d2a68ec0c16cb4b2abf7ad408b9ebf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MyConfiguration\chq18099\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.8.1\feab46062803513d6a8307c74b0084265855de1a\logging-interceptor-3.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="feab46062803513d6a8307c74b0084265855de1a">
+        <dex dex="E:\github\919\RxjavaDemo\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.8.1_488a9a02bbe169e599fd2b984716d8a53d4a7328.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\github\919\RxjavaDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\github\919\RxjavaDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_4153961a4a5ce4ab09ecfbcffd19c9baf011dfa9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\github\919\RxjavaDemo\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_cfa7e4f6acdbb5a37cc4fde833ccf160c11355f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\github\107\RxjavaDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\github\107\RxjavaDemo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_b7ab1ed3c44fa830bcfec4bbad7f63c5941aaee0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\github\107\RxjavaDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\github\107\RxjavaDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_28d34c50f73c8de014536c02b7c8c00ba2adf732.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MyConfiguration\chq18099\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="E:\github\919\RxjavaDemo\app\build\intermediates\pre-dexed\debug\gson-2.7_f5bd885699ab05b44d52f6451e28655e7f80ca67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\github\107\RxjavaDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\github\107\RxjavaDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_ba5583c034567fc83df0faf09dd98577ddbdfa53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\github\919\RxjavaDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\github\919\RxjavaDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_c56f2974df60cbd355ea44481487bad2853c446e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\github\919\RxjavaDemo\app\build\intermediates\exploded-aar\com.trello.rxlifecycle2\rxlifecycle-android\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a1589af4546e0299f3e0c77de3215ecfd3a0e19d">
+        <dex dex="E:\github\919\RxjavaDemo\app\build\intermediates\pre-dexed\debug\com.trello.rxlifecycle2-rxlifecycle-android-2.1.0_6ed98432c1d055dd737de8146e51f4f3eb309f50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\github\919\RxjavaDemo\app\build\intermediates\exploded-aar\com.trello.rxlifecycle2\rxlifecycle-components\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e20f3c5e0e1bdbcf0edad8b16771497b36f68875">
+        <dex dex="E:\github\919\RxjavaDemo\app\build\intermediates\pre-dexed\debug\com.trello.rxlifecycle2-rxlifecycle-components-2.1.0_de8f05a34f0df56c60ac6afde2ae2ce967118dc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\github\107\RxjavaDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\github\107\RxjavaDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_5d0d93be8c6cb4e12a0eb4768e6b42bae8b31425.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\github\919\RxjavaDemo\app\build\intermediates\exploded-aar\io.reactivex.rxjava2\rxandroid\2.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="E:\github\919\RxjavaDemo\app\build\intermediates\pre-dexed\debug\io.reactivex.rxjava2-rxandroid-2.0.1_ee3908da708445b7d2dcbed5dfd671aaf90166aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\github\919\RxjavaDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\github\919\RxjavaDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_0016817ab9ab115f04fa27d01ef394af87b4d8fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MyConfiguration\chq18099\.gradle\caches\modules-2\files-2.1\io.reactivex.rxjava2\rxjava\2.1.3\c6a633c63607f09f77f424b5c52522a7607cedae\rxjava-2.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c6a633c63607f09f77f424b5c52522a7607cedae">
+        <dex dex="E:\github\919\RxjavaDemo\app\build\intermediates\pre-dexed\debug\rxjava-2.1.3_d59d19e17ec045facec60bd08de19da0e9620b35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\github\919\RxjavaDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\github\919\RxjavaDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_904005d895987897c1bc6f6de093e7959ec50c19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\github\107\RxjavaDemo\app\build\intermediates\exploded-aar\com.trello.rxlifecycle2\rxlifecycle-android\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a1589af4546e0299f3e0c77de3215ecfd3a0e19d">
+        <dex dex="E:\github\107\RxjavaDemo\app\build\intermediates\pre-dexed\debug\com.trello.rxlifecycle2-rxlifecycle-android-2.1.0_ec6a44935b6988635d39b26a01382ff405e8bd9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\github\107\RxjavaDemo\app\build\intermediates\exploded-aar\io.reactivex.rxjava2\rxandroid\2.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="E:\github\107\RxjavaDemo\app\build\intermediates\pre-dexed\debug\io.reactivex.rxjava2-rxandroid-2.0.1_b864321ca6b73029917ddcca81e039bb92872e10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\github\919\RxjavaDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\github\919\RxjavaDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_ede0a20dc8d036c78c64f21b1fa292843fba98ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\github\919\RxjavaDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\github\919\RxjavaDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_75621c9c0d71d161dae3ee19ff001c2b9f48b9e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\github\919\RxjavaDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\github\919\RxjavaDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_db6006ce7fa0dc26b4974eaf014036e7f44c640a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\github\919\RxjavaDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\github\919\RxjavaDemo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_4983c6e122bd5306e1e7ab5371b8379460ca8e8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\github\919\RxjavaDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\github\919\RxjavaDemo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_98793cb95123568ea68d32adb7ee26433f1ea2af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MyConfiguration\chq18099\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.3.0\9e09011e9767bb76b5e27c9b8223476b93b14631\converter-gson-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="E:\github\919\RxjavaDemo\app\build\intermediates\pre-dexed\debug\converter-gson-2.3.0_4513577e4c03d446aaea7a0dcb89ce1caa4b8877.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\github\107\RxjavaDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\github\107\RxjavaDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_4e6361733256c119df7b442a810583d0b433fd03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MyConfiguration\chq18099\.gradle\caches\modules-2\files-2.1\com.trello.rxlifecycle2\rxlifecycle\2.2.0\bad74e98db4857406a87d5b7595fef62bf31823c\rxlifecycle-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bad74e98db4857406a87d5b7595fef62bf31823c">
+        <dex dex="E:\github\919\RxjavaDemo\app\build\intermediates\pre-dexed\debug\rxlifecycle-2.2.0_4c1ce763b2a254786da89157edb7ae3bc28f9e65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\github\107\RxjavaDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\github\107\RxjavaDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_d42604f49e2273baa37035171cf71efebefc9034.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\github\107\RxjavaDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\github\107\RxjavaDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_88379b066a41b6b7ec2f2eb5436ef5cd4bcf380a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MyConfiguration\chq18099\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.1\4d060ca3190df0eda4dc13415532a12e15ca5f11\okhttp-3.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4d060ca3190df0eda4dc13415532a12e15ca5f11">
+        <dex dex="E:\github\919\RxjavaDemo\app\build\intermediates\pre-dexed\debug\okhttp-3.8.1_2b4a624eead2399493349c194add58364c8aa24a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MyConfiguration\chq18099\.gradle\caches\modules-2\files-2.1\org.reactivestreams\reactive-streams\1.0.1\1b1c911686eb40179219466e6a59b634b9d7a748\reactive-streams-1.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1b1c911686eb40179219466e6a59b634b9d7a748">
+        <dex dex="E:\github\919\RxjavaDemo\app\build\intermediates\pre-dexed\debug\reactive-streams-1.0.1_541771f73408d4a8d424ad15ceb4ed6b7556ddf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\github\107\RxjavaDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\github\107\RxjavaDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_674568212899afd315f0522f28a192abda1cfed6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\github\107\RxjavaDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\github\107\RxjavaDemo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_0bd2e2ce341a25c3dfc7b641d08c408ec1e8d41b.jar" />
+    </item>
+
+</items>

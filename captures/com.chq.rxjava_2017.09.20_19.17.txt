@@ -1,0 +1,27 @@
+TASK com.chq.rxjava id=20283
+  ACTIVITY com.chq.rxjava/.MainActivity b2403c6 pid=2697
+    Local FragmentActivity 4201c49 State:
+      mCreated=truemResumed=true mStopped=false mReallyStopped=false
+      mLoadersStarted=true
+    FragmentManager misc state:
+      mHost=android.support.v4.app.FragmentActivity$HostCallbacks@35c65b5
+      mContainer=android.support.v4.app.FragmentActivity$HostCallbacks@35c65b5
+      mCurState=5 mStateSaved=false mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.PhoneWindow$DecorView{452a44a V.E..... ... 0,0-1080,1920}
+        android.widget.LinearLayout{7aafbb V.E..... ... 0,0-1080,1812}
+          android.view.ViewStub{b69fcd8 G.E..... ... 0,0-0,0 #102039f android:id/action_mode_bar_stub}
+          android.widget.FrameLayout{e3aa831 V.E..... ... 0,72-1080,1812}
+            android.support.v7.widget.ActionBarOverlayLayout{51ebb16 V.E..... ... 0,0-1080,1740 #7f0b0045 app:id/decor_content_parent}
+              android.support.v7.widget.ContentFrameLayout{41a8c97 V.E..... ... 0,168-1080,1740 #1020002 android:id/content}
+                android.widget.LinearLayout{9ee0e84 V.E..... ... 0,0-1080,1572 #7f0b0056 app:id/activity_main}
+                  android.support.v7.widget.AppCompatEditText{e0966d VFED..CL F.. 48,48-1032,183 #7f0b0057 app:id/et_name}
+                  android.support.v7.widget.AppCompatEditText{2c372a2 VFED..CL ... 48,183-1032,318 #7f0b0058 app:id/et_password}
+                  android.support.v7.widget.AppCompatButton{5715b33 VFED..C. ... 96,378-984,513 #7f0b0059 app:id/btn_confirm}
+              android.support.v7.widget.ActionBarContainer{77f8ef0 V.ED.... ... 0,0-1080,168 #7f0b0046 app:id/action_bar_container}
+                android.support.v7.widget.Toolbar{c7d2c69 V.E..... ... 0,0-1080,168 #7f0b0047 app:id/action_bar}
+                  android.support.v7.widget.AppCompatTextView{70a16ee V.ED.... ... 48,43-381,124}
+                  android.support.v7.widget.ActionMenuView{c5c778f V.E..... ... 1080,0-1080,168}
+                android.support.v7.widget.ActionBarContextView{766aa1c G.E..... ... 0,0-0,0 #7f0b0048 app:id/action_context_bar}
+        android.view.View{c332625 V.ED.... ... 0,1812-1080,1920 #1020030 android:id/navigationBarBackground}
+        android.view.View{d04b3fa V.ED.... ... 0,0-1080,72 #102002f android:id/statusBarBackground}
